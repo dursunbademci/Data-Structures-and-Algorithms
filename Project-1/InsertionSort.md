@@ -44,3 +44,8 @@ Sıralamadan sonra dizinin en son hali [2,6,16,18,22,27] olur. Bu haliyle 18 say
 * [2,3,4,8,7,9,5,15,6] ->**3. Aşama**
 
 * [2,3,4,5,7,9,8,15,6] ->**4. Aşama**
+
+---
+[LinkedIn](linkedin.com/in/dursunbademci)
+
+[PatikaDev](https://app.patika.dev/dursunbademci)

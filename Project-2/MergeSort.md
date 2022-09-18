@@ -23,3 +23,8 @@
 ***b. Big-O gösterimini yazınız.***
 
 O (nlogn)
+
+---
+[LinkedIn](linkedin.com/in/dursunbademci)
+
+[PatikaDev](https://app.patika.dev/dursunbademci)

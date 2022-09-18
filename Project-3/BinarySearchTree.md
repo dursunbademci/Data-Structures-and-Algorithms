@@ -36,4 +36,7 @@ Son olarak aşağıdaki görüntü elde edilir:
 			  /   \
 			2       4 
 
+---
+[LinkedIn](linkedin.com/in/dursunbademci)
 
+[PatikaDev](https://app.patika.dev/dursunbademci)
